@@ -1,2 +1,2 @@
 # AC1-WebFrontEnd
-Julia Moraes Martins (RA 248065) - Melissa Yukari Kato (RA 247604)
+Julia Moraes Martins (RA 248065) - Danielle Namie Yoshimura (RA 248173)
